@@ -26,7 +26,7 @@ const c: IConfig = {
   keywords: '导航,电商干货,社区站点,淘宝论坛,实用工具,学习资源,查号,查电商,运营星球',
 
   // 默认主题: Light | Sim | Side | App | Shortcut
-  theme: 'Light',
+  theme: 'Side',
 
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
