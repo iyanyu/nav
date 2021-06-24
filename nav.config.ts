@@ -14,16 +14,16 @@ const c: IConfig = {
   showGithub: true,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://iyanyu.github.io/nav',
+  homeUrl: 'https://dianshangxianfeng.com/',
   
   // 网站标题
-  title: '言余-新世界',
+  title: '电商先锋导航',
 
   // 网站描述
-  description: '运营星球,言余',
+  description: '电商拥有5千万级的黑号数据库,拥有查降权黑号,标签权重评估,创客照妖镜,淘宝查号,淘客订单检测,实时查排名,买家秀采集等功能,致力于解决多个运营问题,成为电商人必备的运营神器',
 
   // 网站关键字
-  keywords: '导航,电商干货,社区站点,淘宝论坛,实用工具,学习资源,查号,查电商,运营星球',
+  keywords: '创客照妖镜,淘宝查号,电商先锋，运营星球,宝贝排名查询,指数转换工具,淘宝数据分析工具,淘宝排行榜流量查询,天猫淘宝店铺关注',
 
   // 默认主题: Light | Sim | Side | App | Shortcut
   theme: 'Side',
@@ -31,7 +31,7 @@ const c: IConfig = {
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
     <div style="font-weight: bold;">共收录\${total}个网站</div>
-    <div>Copyright © 2018-2021 iYanyu—Ragstchy_Gi , All Rights Reserved</div>
+    <div>Copyright © 2016-2021 iYanyu—Ragstchy_Gi , All Rights Reserved</div>
   `,
 
   // 百度统计地址
